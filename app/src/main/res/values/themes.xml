@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyAppApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/darker_purple</item>
+        <item name="android:colorBackground">@color/backround_purple</item>
+    </style>
+
+    <style name="Theme.MyAppApp" parent="Base.Theme.MyAppApp" />
+</resources>
